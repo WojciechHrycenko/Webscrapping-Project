@@ -5,14 +5,14 @@ Team Members:
 - Wojciech Hrycenko
 
 Plan of the course:
-Feb 18 - Organizational matters, introduction & legal issues (Maciek)
-Feb 25 - Basic html navigation (Ewa)
-Mar 04 - Regex (Ewa)
-Mar 11 - Scraping of static webpages with BeautifulSoup (Maciek)
-Mar 18 - Scraping of dynamic webpages with Selenium (Maciek)
-Mar 25 - Webscraping with Scrapy (Ewa)
-Apr 01 - Students' presentations - slot 1 (Ewa)
-Apr 08 - Students' presentations - slot 2 & final test (Maciek)
+- Feb 18 - Organizational matters, introduction & legal issues (Maciek)
+- Feb 25 - Basic html navigation (Ewa)
+- Mar 04 - Regex (Ewa)
+- Mar 11 - Scraping of static webpages with BeautifulSoup (Maciek)
+- Mar 18 - Scraping of dynamic webpages with Selenium (Maciek)
+- Mar 25 - Webscraping with Scrapy (Ewa)
+- Apr 01 - Students' presentations - slot 1 (Ewa)
+- Apr 08 - Students' presentations - slot 2 & final test (Maciek)
 
 Assessment of the course
 - Class presence according to common University of Warsaw rules, i.e., 1 unjustified absence allowed; still minimum 50% presence required.
