@@ -1,4 +1,4 @@
-# Webscrapping-Project
+# Webscrapping Project
 
 Team Members:
 - Weronika Mądro
